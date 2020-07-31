@@ -1,8 +1,8 @@
 # Site settings 配置站点
 title: 'Kemal AKIN'
-description: 'My Notes'
+description: 'Software Developer'
 keyword: 'ruby'
-url: 'https://kemalakin.com' # your host
+url: 'https://vilusa.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: 'Kemal AKIN'
 nickname: 'vilusa'
-bio: 'jr ruby & rails coder'
+bio: 'ruby & rails coder'
 avatar: '/assets/img/profile.jpg'
 
 # Search

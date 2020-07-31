@@ -4,3 +4,7 @@
 node_modules
 
 _site
+/.idea/misc.xml
+/.idea/vilusa.github.io.iml
+/.idea/vcs.xml
+/.idea/modules.xml
